@@ -1,0 +1,43 @@
+version: 1
+project:
+  id: c88237f5-f819-4d0f-a0cc-7f43010b9e30
+  title: AI Agents & Orchestration with Six Thinking Hats
+  description: Browser-based lessons and labs for learning multi-agent orchestration through Edward de Bono's Six Thinking Hats and the blind-men-and-elephant metaphor.
+  keywords:
+    - ai agents
+    - multi-agent systems
+    - orchestration
+    - six thinking hats
+    - jupyterlite
+    - jupyterbook
+  authors:
+    - name: James L. Tobias
+  github: jltobias/JupyterLite-AI-Agents-and-Orchestrator-Six-Thinking-Hats
+  toc:
+    - file: book/index.md
+    - title: Foundations
+      children:
+        - file: book/01_agents_and_orchestration.md
+        - file: book/02_six_hats_framework.md
+        - file: book/03_blind_men_and_elephant.md
+    - title: Build the system
+      children:
+        - file: book/04_building_the_agents.md
+        - file: book/05_orchestrator_and_big_picture.md
+    - title: Browser labs
+      children:
+        - file: notebooks/01_six_hats_agents.ipynb
+        - file: notebooks/02_orchestrator_lab.ipynb
+        - file: notebooks/03_backend_adapter.ipynb
+    - title: Deploy and extend
+      children:
+        - file: book/06_browser_deployment.md
+        - file: book/07_next_steps.md
+site:
+  template: book-theme
+  title: Six Hats AI Agents
+  actions:
+    - title: Open JupyterLite
+      url: https://jltobias.github.io/JupyterLite-AI-Agents-and-Orchestrator-Six-Thinking-Hats/lite/lab/index.html
+    - title: GitHub repository
+      url: https://github.com/jltobias/JupyterLite-AI-Agents-and-Orchestrator-Six-Thinking-Hats
