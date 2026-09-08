@@ -4,6 +4,12 @@ A browser-first learning project for exploring **AI agents**, **multi-agent orch
 
 **Book:** Edward de Bono, *Six Thinking Hats* — https://www.goodreads.com/book/show/97030.Six_Thinking_Hats
 
+## Six Thinking Hats at a glance
+
+![Original Six Thinking Hats infographic](notebooks/assets/six-thinking-hats-infographic.svg)
+
+*Original infographic created specifically for this repository. It does not copy or adapt third-party infographic artwork; the concepts and hat meanings are attributed to Edward de Bono's Six Thinking Hats framework.*
+
 ## Live learning
 
 > GitHub Pages must be enabled with **Settings → Pages → Source: GitHub Actions** before these links become live.
@@ -70,7 +76,8 @@ A `CallableBackend` adapter is also included. You can connect it to a real LLM l
 ├── book/                         # JupyterBook chapters
 ├── notebooks/                    # Browser-run JupyterLite labs
 │   ├── assets/
-│   │   └── six-thinking-hats.svg # Original color graphic used by Notebook 00
+│   │   ├── six-thinking-hats.svg             # Compact original hat graphic
+│   │   └── six-thinking-hats-infographic.svg # Original explanatory infographic
 │   ├── 00_six_thinking_hats_foundations.ipynb
 │   ├── six_hats_agents.py        # Reusable agents + orchestrator
 │   ├── 01_six_hats_agents.ipynb
