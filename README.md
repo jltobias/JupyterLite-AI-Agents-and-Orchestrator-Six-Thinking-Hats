@@ -2,6 +2,8 @@
 
 A browser-first learning project for exploring **AI agents**, **multi-agent orchestration**, and **Edward de Bono's Six Thinking Hats**. Six role-specialized agents examine one problem from different perspectives, while a seventh **Orchestrator** gathers their outputs, looks for blind spots, and constructs a whole-system view—the proverbial **elephant in the room**.
 
+**Book:** Edward de Bono, *Six Thinking Hats* — https://www.goodreads.com/book/show/97030.Six_Thinking_Hats
+
 ## Live learning
 
 > GitHub Pages must be enabled with **Settings → Pages → Source: GitHub Actions** before these links become live.
@@ -94,7 +96,7 @@ Then open `http://localhost:8000/` for the book and `http://localhost:8000/lite/
 
 The project is an educational implementation inspired by Edward de Bono's Six Thinking Hats method; it is not affiliated with or endorsed by the de Bono organization.
 
-- de Bono, Edward. *Six Thinking Hats*. Little, Brown and Company, 1985; later Penguin editions are available. Official overview: https://www.debono.com/Books/six-thinking-hats
+- de Bono, Edward. *Six Thinking Hats*. Little, Brown and Company, 1985; later Penguin editions are available. Goodreads: https://www.goodreads.com/book/show/97030.Six_Thinking_Hats — Official overview: https://www.debono.com/Books/six-thinking-hats
 - Official Six Thinking Hats site, including guidance on parallel thinking: https://www.six-thinking-hats.com/
 - Stikeleather, James, and Anthony J. Masys. “Global Health Security Innovation.” In *Global Health Security: Recognizing Vulnerabilities, Creating Opportunities*, Springer, 2020, pp. 387–425. https://doi.org/10.1007/978-3-030-23491-1_16
 - Zhang, Xiao Chi, et al. “A Novel Approach to Debriefing Medical Simulations: The Six Thinking Hats.” *Cureus* 10(4), 2018: e2543. https://doi.org/10.7759/cureus.2543
