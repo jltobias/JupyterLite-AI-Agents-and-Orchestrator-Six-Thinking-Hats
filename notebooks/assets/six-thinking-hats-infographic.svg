@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1080" viewBox="0 0 1200 1080" role="img" aria-labelledby="title desc">
+  <title id="title">The Six Thinking Hats infographic</title>
+  <desc id="desc">An original six-panel infographic explaining White facts, Red feelings, Black risks, Yellow benefits, Green creativity, and Blue process.</desc>
+  <defs>
+    <style>
+      .title{font:700 44px Arial,Helvetica,sans-serif;fill:#12324a}.sub{font:400 21px Arial,Helvetica,sans-serif;fill:#38556c}
+      .panelTitle{font:700 28px Arial,Helvetica,sans-serif}.mode{font:700 17px Arial,Helvetica,sans-serif}.body{font:400 17px Arial,Helvetica,sans-serif;fill:#20313d}
+      .q{font:600 16px Arial,Helvetica,sans-serif;fill:#20313d}.small{font:400 14px Arial,Helvetica,sans-serif;fill:#536673}
+    </style>
+  </defs>
+  <rect width="1200" height="1080" fill="#f7fafc"/>
+  <rect x="45" y="35" width="1110" height="118" rx="26" fill="#e8f1f8"/>
+  <text x="600" y="83" text-anchor="middle" class="title">The Six Thinking Hats</text>
+  <text x="600" y="119" text-anchor="middle" class="sub">Six deliberate modes of attention • one fuller picture</text>
+  <text x="600" y="145" text-anchor="middle" class="small">Inspired by Edward de Bono’s parallel-thinking framework</text>
+
+  <g transform="translate(55 185)">
+    <rect width="345" height="390" rx="24" fill="#ffffff" stroke="#c5d0d8" stroke-width="2"/>
+    <ellipse cx="172" cy="103" rx="88" ry="24" fill="#eef2f5" stroke="#7f8d98" stroke-width="3"/>
+    <path d="M115 101 L130 43 Q172 24 214 43 L229 101 Q172 126 115 101Z" fill="#ffffff" stroke="#7f8d98" stroke-width="3"/>
+    <rect x="124" y="88" width="96" height="13" rx="6" fill="#9aa7b0"/>
+    <text x="172" y="157" text-anchor="middle" class="panelTitle" fill="#31424d">White Hat</text>
+    <text x="172" y="184" text-anchor="middle" class="mode" fill="#5f6e77">FACTS &amp; INFORMATION</text>
+    <text x="28" y="222" class="body"><tspan x="28" dy="0">Focus on evidence, knowns,</tspan><tspan x="28" dy="24">unknowns, data quality, and</tspan><tspan x="28" dy="24">what still needs to be learned.</tspan></text>
+    <rect x="24" y="305" width="297" height="61" rx="14" fill="#f2f5f7"/>
+    <text x="39" y="330" class="q"><tspan x="39">Ask: What do we know?</tspan><tspan x="39" dy="22">What evidence would change our view?</tspan></text>
+  </g>
+
+  <g transform="translate(427 185)">
+    <rect width="345" height="390" rx="24" fill="#fff2f2" stroke="#f0b9b9" stroke-width="2"/>
+    <ellipse cx="172" cy="103" rx="88" ry="24" fill="#e84a4a" stroke="#a01f1f" stroke-width="3"/>
+    <path d="M115 101 L130 43 Q172 24 214 43 L229 101 Q172 126 115 101Z" fill="#e53838" stroke="#a01f1f" stroke-width="3"/>
+    <rect x="124" y="88" width="96" height="13" rx="6" fill="#7a1717"/>
+    <text x="172" y="157" text-anchor="middle" class="panelTitle" fill="#8c1f1f">Red Hat</text>
+    <text x="172" y="184" text-anchor="middle" class="mode" fill="#b62d2d">FEELINGS &amp; INTUITION</text>
+    <text x="28" y="222" class="body"><tspan x="28" dy="0">Surface gut reactions, emotions,</tspan><tspan x="28" dy="24">trust, fear, enthusiasm, and</tspan><tspan x="28" dy="24">stakeholder sentiment.</tspan></text>
+    <rect x="24" y="305" width="297" height="61" rx="14" fill="#ffe1e1"/>
+    <text x="39" y="330" class="q"><tspan x="39">Ask: How does this feel?</tspan><tspan x="39" dy="22">Whose reaction could shape adoption?</tspan></text>
+  </g>
+
+  <g transform="translate(799 185)">
+    <rect width="345" height="390" rx="24" fill="#eef0f2" stroke="#b9c0c6" stroke-width="2"/>
+    <ellipse cx="172" cy="103" rx="88" ry="24" fill="#303438" stroke="#111417" stroke-width="3"/>
+    <path d="M115 101 L130 43 Q172 24 214 43 L229 101 Q172 126 115 101Z" fill="#171a1d" stroke="#050607" stroke-width="3"/>
+    <rect x="124" y="88" width="96" height="13" rx="6" fill="#70777c"/>
+    <text x="172" y="157" text-anchor="middle" class="panelTitle" fill="#15191c">Black Hat</text>
+    <text x="172" y="184" text-anchor="middle" class="mode" fill="#454b50">CAUTION &amp; RISKS</text>
+    <text x="28" y="222" class="body"><tspan x="28" dy="0">Stress-test assumptions, identify</tspan><tspan x="28" dy="24">failure modes, constraints, harms,</tspan><tspan x="28" dy="24">and why a plan may not work.</tspan></text>
+    <rect x="24" y="305" width="297" height="61" rx="14" fill="#dde1e4"/>
+    <text x="39" y="330" class="q"><tspan x="39">Ask: What could go wrong?</tspan><tspan x="39" dy="22">What safeguard would reduce the risk?</tspan></text>
+  </g>
+
+  <g transform="translate(55 605)">
+    <rect width="345" height="390" rx="24" fill="#fff9df" stroke="#efd97a" stroke-width="2"/>
+    <ellipse cx="172" cy="103" rx="88" ry="24" fill="#f6c934" stroke="#b78605" stroke-width="3"/>
+    <path d="M115 101 L130 43 Q172 24 214 43 L229 101 Q172 126 115 101Z" fill="#ffd94b" stroke="#b78605" stroke-width="3"/>
+    <rect x="124" y="88" width="96" height="13" rx="6" fill="#8d6800"/>
+    <text x="172" y="157" text-anchor="middle" class="panelTitle" fill="#7d5a00">Yellow Hat</text>
+    <text x="172" y="184" text-anchor="middle" class="mode" fill="#987000">BENEFITS &amp; VALUE</text>
+    <text x="28" y="222" class="body"><tspan x="28" dy="0">Look for strengths, opportunities,</tspan><tspan x="28" dy="24">logical gains, value, and reasons</tspan><tspan x="28" dy="24">an idea could succeed.</tspan></text>
+    <rect x="24" y="305" width="297" height="61" rx="14" fill="#fff0aa"/>
+    <text x="39" y="330" class="q"><tspan x="39">Ask: What is the upside?</tspan><tspan x="39" dy="22">How would we know the benefit is real?</tspan></text>
+  </g>
+
+  <g transform="translate(427 605)">
+    <rect width="345" height="390" rx="24" fill="#effaf1" stroke="#a8d8b1" stroke-width="2"/>
+    <ellipse cx="172" cy="103" rx="88" ry="24" fill="#38a85a" stroke="#176d32" stroke-width="3"/>
+    <path d="M115 101 L130 43 Q172 24 214 43 L229 101 Q172 126 115 101Z" fill="#43bd68" stroke="#176d32" stroke-width="3"/>
+    <rect x="124" y="88" width="96" height="13" rx="6" fill="#155c2c"/>
+    <text x="172" y="157" text-anchor="middle" class="panelTitle" fill="#1f6f37">Green Hat</text>
+    <text x="172" y="184" text-anchor="middle" class="mode" fill="#2b8c47">CREATIVITY &amp; OPTIONS</text>
+    <text x="28" y="222" class="body"><tspan x="28" dy="0">Generate alternatives, reframes,</tspan><tspan x="28" dy="24">experiments, combinations, and</tspan><tspan x="28" dy="24">fresh ways around constraints.</tspan></text>
+    <rect x="24" y="305" width="297" height="61" rx="14" fill="#d9f1df"/>
+    <text x="39" y="330" class="q"><tspan x="39">Ask: What else could we try?</tspan><tspan x="39" dy="22">What if a key constraint were relaxed?</tspan></text>
+  </g>
+
+  <g transform="translate(799 605)">
+    <rect width="345" height="390" rx="24" fill="#edf6ff" stroke="#9ac8ee" stroke-width="2"/>
+    <ellipse cx="172" cy="103" rx="88" ry="24" fill="#368ed0" stroke="#145b8d" stroke-width="3"/>
+    <path d="M115 101 L130 43 Q172 24 214 43 L229 101 Q172 126 115 101Z" fill="#3d9be1" stroke="#145b8d" stroke-width="3"/>
+    <rect x="124" y="88" width="96" height="13" rx="6" fill="#104c77"/>
+    <text x="172" y="157" text-anchor="middle" class="panelTitle" fill="#135782">Blue Hat</text>
+    <text x="172" y="184" text-anchor="middle" class="mode" fill="#2775a8">PROCESS &amp; CONTROL</text>
+    <text x="28" y="222" class="body"><tspan x="28" dy="0">Manage scope, sequence, criteria,</tspan><tspan x="28" dy="24">agenda, synthesis, and what the</tspan><tspan x="28" dy="24">thinking process should do next.</tspan></text>
+    <rect x="24" y="305" width="297" height="61" rx="14" fill="#d8ecfb"/>
+    <text x="39" y="330" class="q"><tspan x="39">Ask: What are we deciding?</tspan><tspan x="39" dy="22">Which hat or evidence is needed next?</tspan></text>
+  </g>
+
+  <text x="600" y="1042" text-anchor="middle" class="small">Original infographic created for the JupyterLite AI Agents + Orchestrator learning project • no third-party infographic artwork used</text>
+</svg>
