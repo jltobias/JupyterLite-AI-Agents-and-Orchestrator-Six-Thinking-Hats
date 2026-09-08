@@ -8,6 +8,7 @@ project:
     - multi-agent systems
     - orchestration
     - six thinking hats
+    - global health
     - jupyterlite
     - jupyterbook
   authors:
@@ -17,6 +18,7 @@ project:
     - file: book/index.md
     - title: Foundations
       children:
+        - file: notebooks/00_six_thinking_hats_foundations.ipynb
         - file: book/01_agents_and_orchestration.md
         - file: book/02_six_hats_framework.md
         - file: book/03_blind_men_and_elephant.md
